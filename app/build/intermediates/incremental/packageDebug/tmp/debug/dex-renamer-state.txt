@@ -1,0 +1,4 @@
+#Wed Aug 14 06:54:21 WIB 2019
+base.0=/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="250dp"
+    android:background="@android:color/transparent" >
+   <RelativeLayout
+         android:id="@+id/bgCart"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content" >
+        
+		
+         <RelativeLayout
+             android:id="@+id/cartContainer"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_below="@+id/relativeLayout1"
+             android:layout_centerHorizontal="true"
+             android:background="@drawable/body_cart"
+             android:layout_above="@+id/imageView1"
+             
+             android:layout_marginTop="-20dp" >
+
+             <RelativeLayout
+                 android:id="@+id/relativeLayout2"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:padding="10dp"
+                 android:layout_alignParentBottom="true" >
+
+                 <Button
+                     android:id="@+id/btnOrder"
+                     android:layout_width="wrap_content"
+                     android:layout_height="40dp"
+                     android:layout_alignParentRight="true"
+                     android:layout_alignParentTop="true"
+                     android:textSize="14dp"
+                     android:layout_marginRight="10dp"
+                      android:paddingTop="10dp"
+                     android:paddingBottom="10dp"
+                     android:paddingLeft="16dp"
+                      android:paddingRight="16dp"
+                     android:textAllCaps="true"
+                     android:background="@drawable/btn_transparent"
+                     android:text="@string/ok" />
+                 
+                 <Button
+                     android:id="@+id/btnCancel"
+                     android:layout_width="wrap_content"
+                     android:layout_height="40dp"
+                     android:layout_alignParentTop="true"
+                     android:textSize="14dp"
+                      android:paddingTop="10dp"
+                     android:paddingBottom="10dp"
+                     android:paddingLeft="16dp"
+                      android:paddingRight="16dp"
+                     android:layout_toLeftOf="@+id/btnOrder"
+                     android:layout_marginRight="8dp"
+                     android:background="@drawable/btn_transparent"
+                     android:text="@string/cancel_order" />
+
+             </RelativeLayout>
+             <RelativeLayout
+                 android:id="@+id/relativeLayout4"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:padding="5dp"
+                 android:layout_marginLeft="16dp"
+                  android:layout_above="@+id/relativeLayout2" >
+
+             </RelativeLayout>
+				
+              <TextView
+                 android:id="@+id/textView2"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                  android:layout_alignParentTop="true"
+                 android:layout_centerHorizontal="true"
+                 android:layout_marginTop="30dp"
+                 android:textSize="18dp"
+                 android:text="@string/sure" />
+              
+             <EditText
+                 android:id="@+id/editText1"
+                 android:layout_width="match_parent"
+                 android:layout_height="45dp"
+                android:layout_below="@+id/textView2"
+                 android:layout_marginTop="10dp"
+                 android:ems="10"
+                 android:hint="@string/enter_description"
+                 android:layout_above="@+id/relativeLayout2"
+                 android:layout_marginLeft="8dp"
+                 android:layout_marginRight="12dp"
+                 android:gravity="center"
+                 android:paddingLeft="10dp"
+                 android:paddingRight="10dp"
+                 android:background="@drawable/rounded_bg"
+                 android:textStyle="italic"
+                 android:inputType="textMultiLine" >
+
+             </EditText>
+
+            
+
+         </RelativeLayout>
+           <ImageView
+                 android:id="@+id/imageView1"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentBottom="true"
+                 android:layout_marginTop="-5dp"
+                 android:layout_marginLeft="3dp"
+                 android:layout_marginRight="3dp"
+                 android:background="@drawable/footer_cart" />
+         
+         <RelativeLayout
+             android:id="@+id/relativeLayout1"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_alignParentTop="true"
+             android:layout_centerHorizontal="true"
+             android:background="@drawable/header_card" >
+
+             <TextView
+                 android:id="@+id/textView1"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_centerHorizontal="true"
+                 android:layout_marginTop="11dp"
+                 android:text="@string/confirmation"
+                 android:textColor="@color/putih" />
+         </RelativeLayout>
+     </RelativeLayout>
+
+</RelativeLayout>

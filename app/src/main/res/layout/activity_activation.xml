@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_default"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <LinearLayout
+        android:id="@+id/activationWrapper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/txtSN"
+            android:layout_width="400dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:hint="@string/activation_enter_sn_hint"
+            android:imeOptions="flagNoFullscreen"
+            android:background="@drawable/textbox"
+            android:textColor="@color/text_gray"
+            android:singleLine="true"
+            android:layout_marginTop="8dp" >
+
+        </EditText>
+
+        <Button
+            android:id="@+id/btnSubmit"
+            android:layout_width="445dp"
+            android:layout_height="80dp"
+            android:background="@drawable/bg_btn_blue"
+            android:paddingBottom="10dp"
+            android:textColor="@color/putih"
+            android:text="@string/submit" />
+        
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/activationWrapper"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_margin="8dp"
+        android:textColor="@color/text_gray"
+        android:layout_marginBottom="20dp"
+        android:textSize="30dp"
+        android:text="@string/activation_enter_sn" />
+    
+    
+</RelativeLayout>

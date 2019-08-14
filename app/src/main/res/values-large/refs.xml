@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    Layout alias to replace the single-pane version of the layout with a
+    two-pane version on Large screens.
+
+    For more on layout aliases, see:
+    http://developer.android.com/training/multiscreen/screensizes.html#TaskUseAliasFilters
+    -->
+    <item name="activity_master_list" type="layout">@layout/activity_master_twopane</item>
+    <item name="activity_setting_list" type="layout">@layout/activity_setting_twopane</item>
+
+</resources>

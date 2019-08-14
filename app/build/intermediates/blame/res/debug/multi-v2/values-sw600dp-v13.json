@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/values-sw600dp/refs.xml",
+                    "from": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "320,412",
+                        "endColumns": "90,92",
+                        "endOffsets": "406,500"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,146",
+                        "endColumns": "90,92",
+                        "endOffsets": "141,234"
+                    }
+                }
+            ]
+        }
+    ]
+}

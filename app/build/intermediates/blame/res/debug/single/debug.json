@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_grid_checked.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_grid_checked.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_list_black_36dp.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_list_black_36dp.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_save_grey600_36dp.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-xhdpi/ic_save_grey600_36dp.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_minus.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_minus.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_user_list_item.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/user_list_item.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_minus_disabled.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_minus_disabled.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable_bg_btn_trans.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable/bg_btn_trans.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_logout.jpg.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/logout.jpg"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_category_spinner_menu_item.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/category_spinner_menu_item.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_fragment_product_add.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/fragment_product_add.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_edit_grey600_36dp.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-xhdpi/ic_edit_grey600_36dp.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_cart_list_item.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/cart_list_item.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_activity_master_detail.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/activity_master_detail.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_category_list_item.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/category_list_item.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable_bg_btn_minus.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable/bg_btn_minus.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_textbox_large.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/textbox_large.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_logoyondev.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/logoyondev.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_header_card.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/header_card.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_gamewae.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/gamewae.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable_bg_btn_menu.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable/bg_btn_menu.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_qr.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_qr.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_btnblue.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/btnblue.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_activity_setting_list.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/activity_setting_list.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_activity_quick_order.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/activity_quick_order.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_product_list_item.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/product_list_item.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_trans.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/btn_trans.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_category_spinner_item.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/category_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable_rounded_white.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable/rounded_white.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_textbox.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/textbox.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_arrow_down.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_fragment_category_list.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/fragment_category_list.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_activity_setting_detail.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/activity_setting_detail.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_device_name.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_bg1.jpg.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/bg1.jpg"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable_rounded_bg.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable/rounded_bg.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_setting_list_item.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/setting_list_item.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_confirm_dialog.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/confirm_dialog.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_minus_clicked.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_minus_clicked.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_trans_state.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/btn_trans_state.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_fragment_setting_detail.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/fragment_setting_detail.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_loading_dialog.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/loading_dialog.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_add_grey600_36dp.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-xhdpi/ic_add_grey600_36dp.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_btnblue_state.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/btnblue_state.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_fragment_category_add.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/fragment_category_add.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_grid_container_trans.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/grid_container_trans.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_fragment_user_add.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/fragment_user_add.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable_bg_btn_plus.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable/bg_btn_plus.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_plus_disabled.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_plus_disabled.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_body_cart.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/body_cart.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable_btn_transparent.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable/btn_transparent.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_master.jpg.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/master.jpg"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_grid_container.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/grid_container.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_product_grid_item.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/product_grid_item.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_activity_master_list.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/activity_master_list.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_report.jpg.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/report.jpg"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_shadow.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/shadow.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_arrow_big.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_arrow_big.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_textbox_outline.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/textbox_outline.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_grid_on_black_36dp.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_grid_on_black_36dp.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_activity_master_twopane.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/activity_master_twopane.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_plus.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_plus.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_fragment_product_list.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/fragment_product_list.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_activity_setting_twopane.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/activity_setting_twopane.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_delete_grey600_36dp.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-xhdpi/ic_delete_grey600_36dp.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sendok.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_sendok.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_product_grid_list_item.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/product_grid_list_item.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_activity_activation.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/activity_activation.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_fragment_master_detail.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/fragment_master_detail.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable_icon_state.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable/icon_state.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_plus_clicked.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_plus_clicked.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_fragment_user_list.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/fragment_user_list.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_footer_cart.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/footer_cart.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_setting.jpg.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/setting.jpg"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/layout_device_list.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_noimage_square.png.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable-hdpi/ic_noimage_square.png"
+    },
+    {
+        "merged": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/build/intermediates/res/merged/debug/drawable_bg_btn_blue.xml.flat",
+        "source": "/Users/bakwan/Documents/triono/github/AndroidStudioProjects/CCashier1/app/src/main/res/drawable/bg_btn_blue.xml"
+    }
+]

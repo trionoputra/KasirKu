@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.chipo.cashier.widget.SquareRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/grid_container" >
+    
+     <ImageView
+         android:layout_marginTop="15dp"
+        android:id="@+id/imageView1"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_noimage_square" />
+     
+      <ImageView
+          android:visibility="gone"
+        android:id="@+id/imageView2"
+          android:layout_marginTop="15dp"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/shadow" />
+    
+      
+      <RelativeLayout
+          android:visibility="gone"
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@color/item_transparan2" >
+
+          <ImageView
+              android:id="@+id/imageView3"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_centerHorizontal="true"
+              android:layout_centerVertical="true"
+              android:src="@drawable/ic_grid_checked" />
+
+    </RelativeLayout>
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+       android:layout_marginLeft="8dp"
+      	android:layout_marginTop="5dp"
+        android:text="cabe"
+        android:textColor="@color/putih"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+      	android:layout_marginRight="8dp"
+      	android:layout_marginTop="5dp"
+        android:textColor="@color/yellow"
+        android:textSize="16dp"
+        android:text="Rp. 10.000" />
+
+    
+
+</com.chipo.cashier.widget.SquareRelativeLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:gravity="center_vertical"
+    android:descendantFocusability="blocksDescendants" 
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        style="?android:attr/textAppearanceLarge"
+        android:text="TextView" />
+
+    <ImageButton
+        android:id="@+id/imageView1"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_alignParentRight="true"
+        android:scaleType="fitXY"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/icon_state"
+        android:src="@drawable/ic_delete_grey600_36dp" />
+    
+    
+     <ImageButton
+        android:id="@+id/imageView2"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="16dp"
+        android:scaleType="fitXY"
+        android:layout_toLeftOf="@+id/imageView1"
+        android:background="@drawable/icon_state"
+        android:src="@drawable/ic_edit_grey600_36dp" />
+
+</RelativeLayout>

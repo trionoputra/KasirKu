@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+     <color name="bg_default">#E5EBE9</color>
+     <color name="bg_dark">#33373F</color> 
+      <color name="text_black">#2a2f34</color> 
+     <color name="text_gray">#4D4D4D</color>
+     <color name="line_gray">#E6E6E6</color> 
+     <color name="yellow">#FFE54D</color> 
+     <color name="blue">#3E8FC1</color> 
+     <color name="green">#7CAC42</color> 
+     <color name="red">#E74825</color> 
+      
+    <color name="item">#000</color>
+    <color name="putih">#fff</color>
+    <color name="putih_transparan">#99ffffff</color>
+    <color name="item_transparan">#11000000</color>
+    <color name="item_transparan2">#aa000000</color>
+</resources>
